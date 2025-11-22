@@ -1,0 +1,1 @@
+GRADUADOS2.csv son los datos depurados que nos proporciona la UPSA para poder hacer los analisis de forma adecuada y dentro del archivo analisis_graduados.py se encuentran todas las graficas que se realizaron.
